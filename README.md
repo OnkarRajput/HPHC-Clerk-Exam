@@ -91,17 +91,16 @@ Himachal Pradesh High Court Clerk Exam Preparation 2024-25
 22. Punched hole/pattern-folding & unfolding
 23. Indexing.
 
-## English & Hindi :
+                
 
-1. Essay Writing
-2. Translation of Sentences from English to Hindi
-3. Translation of Sentences from Hindi to English
 
-#########################################################################################################################################################
-# HP High Court Clerk Exam Pattern 2025
+# HP High Court Clerk Exam Pattern 2025 
+
+# 1. Screening Test
+If the number of applicants is low, the High Court may skip the screening test. This stage usually consists of multiple-choice questions (MCQs), totaling 100 marks. Each question is worth one mark, and there is no negative marking for incorrect answers.
 ------------------------------------------------------------------------------------------------------------------------------------------- 
 S.No	 Subject                                   	                              No.of Question	     Marks	               Duration
-1	    General Knowledge (National & International-25+15)Himachal Pradesh-30)	    70	               70	                   2 Hour
+1	 General Knowledge (National(25) & International(15) Himachal Pradesh(30)	     70	               70	                   2 Hour
 2   	Basic of Computer	                                                          10	               10
 3	     Reasoning	                                                                20	               20
 ------------------------------------------------------------------------------------------------------------------------------------------
@@ -109,19 +108,22 @@ S.No	 Subject                                   	                              N
 -------------------------------------------------------------------------------------------------------------------------------------- 
 
 
+# 2.  Main Written Exam : Maximum Marks: 80 Marks, Time: 2 hours
+English & Hindi:-
+The main written exam is subjective, with a total of 100 marks. Candidates are given 2 hours to complete the exam. This stage tests the candidate’s knowledge and understanding in more detail.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Topic	                                                                                        Marks
+English Essay in 500 words	                                                                    25
+Hindi Essay in 500 words                                                                       25
+Translation from English to Hindi (one paragraph containing at least ten sentences)	           15
+Translation from Hindi to English (one paragraph containing at least ten sentences)	           15
+------------------------------------------------------------------------------------------------------
+                                  Total	                                                       80
+-------------------------------------------------------------------------------------------------------    
 
 
-# Written Test: Maximum Marks: 80 Marks, Time: 2 hours
-------------------------------------------------------------------------------------------------------------------------------------------------------------- 
-Essay, in English 500 words	                                                                    25 marks
-Essay, in Hindi  500 words	                                                                    25 marks
-Translation from English to 15 marks Hindi (one paragraph containing at least ten sentences)	  15 marks
-Translation from Hindi to 15 marks in English (one paragraphcontaining at least ten sentences)  15 marks
-------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-
-
-# 3. Typing Test: The candidates shall have to qualify for, typing test with a speed of 30 W.P.M. in English and 25 W.P.M. in Hindi, on Computers. Provided that only 10% of the mistakes in typing tests shall be permitted. Note-1:-The time for typing test shall be ten  (10) minutes.
+# 3. Computer Typing Test (English & Hindi) : The candidates shall have to qualify for, typing test with a speed of 30 W.P.M. in English and 25 W.P.M. in Hindi, on Computers. Provided that only 10% of the mistakes in typing tests shall be permitted. Note-1:-The time for typing test shall be ten  (10) minutes.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 ###############################################################################################################################################################
